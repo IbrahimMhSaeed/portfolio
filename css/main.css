@@ -488,13 +488,12 @@ html, body{
     }
     .main-btn{
         padding: 8px 12px;
-        font-size: ;
     }
     .services{
-        padding: 50px 5%;
+        padding: 70px 5%;
     }
     .services h2{
-        margin-top: 0px;
+        margin-top: 18pxpx;
     }
     .service-col{
         width: 100%;
@@ -529,7 +528,7 @@ html, body{
 @media (max-width: 400px){
     .projects h2{
         width: 80%;
-        margin: auto;
+        margin: 18px auto;
     }
     .social-media h1{
         font-size: var(--h1);
